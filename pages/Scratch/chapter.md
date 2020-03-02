@@ -13,4 +13,4 @@ Discover **Scratch**
 
 [Scratch Website](https://scratch.mit.edu/)
 
-![alt](../pages/images/chrome_s4a4TtTTX8.png)
+![alt](../images/chrome_s4a4TtTTX8.png)
