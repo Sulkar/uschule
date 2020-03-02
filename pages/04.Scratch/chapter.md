@@ -15,6 +15,18 @@ Discover **Scratch**
 
 > Hallo ein Test
 
+----------
+Hallo jetzt geht es weiter. Wie könnte man das Problem nun lösen?
+
+>Ich habe leider keine Ahnung, doch würde ich gerne eine neue Datei hinzufügen.
+
+Eine Tabelle:
+
+| Name | Klasse | Wohnort |
+| ------ | ------ | -|
+| Richi | data | München |
+| Andi | data | Mering |
+
 ```python
 
 #imports:
