@@ -12,3 +12,4 @@ child_type: docs
 Discover the **basic** principles
 
 Hallo ein erster Test!
+Tutorial: [Grav link Git](https://learn.hibbittsdesign.org/learn2withgitsync/tips-and-tricks)
