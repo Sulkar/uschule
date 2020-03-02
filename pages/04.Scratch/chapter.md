@@ -18,7 +18,9 @@ Discover **Scratch**
 ----------
 Hallo jetzt geht es weiter. Wie könnte man das Problem nun lösen?
 
->Ich habe leider keine Ahnung, doch würde ich gerne eine neue Datei hinzufügen.
+>Ich habe leider keine Ahnung, doch würde ich gerne eine neue Datei hinzufügen. 
+
+[MD Grav Reference](https://learn.getgrav.org/16/content/markdown)
 
 Eine Tabelle:
 
