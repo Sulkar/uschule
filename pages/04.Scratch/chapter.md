@@ -5,12 +5,34 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
-
-# Scratch
+### Scratch
 
 Discover **Scratch**
 
 [Scratch Website](https://scratch.mit.edu/)
 
 ![alt](../images/chrome_s4a4TtTTX8.png)
+
+> Hallo ein Test
+
+```python
+
+#imports:
+from os import listdir, rename, path
+import csv, sys
+from tkinter import Tk
+from tkinter.filedialog import askopenfilename, askdirectory
+
+#global variables:
+PfadZuDateien = ''
+meineDateienGefiltert = []
+
+def filterDateien():
+    meineDateien = listdir(PfadZuDateien)
+    #removes folders:
+    for datei in meineDateien:
+        if not path.isdir(path.join(PfadZuDateien, datei)):
+            global meineDateienGefiltert
+            meineDateienGefiltert.append(datei)
+
+```
