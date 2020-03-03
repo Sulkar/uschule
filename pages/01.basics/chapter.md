@@ -1,6 +1,6 @@
 ---
 title: Basics
-published: false
+published: true
 taxonomy:
     category: docs
 child_type: docs
