@@ -13,9 +13,11 @@ Bild und weitere Infos von [entwickler.de](https://entwickler.de/online/windowsd
 
 - Docker Engine muss installiert sein (Community Edition/Docker Desktop!?)
 - Nach der Installation ist Docker auf der Kommandozeile verfügbar: "`docker version`" müsste dann die installierte Version anzeigen.
-- third
+- Dannach muss Windows neu gestartet werden.
 
 
 Die Windows Version hat ca. 1GB und kann hier heruntergeladen werden:
 ![alt](../../images/chrome_ufpVBRBPUA.png)
 [https://hub.docker.com/editions/community/docker-ce-desktop-windows/](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
+
+Nach der Installation muss Windows neu gestartet werden.
