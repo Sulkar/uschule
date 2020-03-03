@@ -8,5 +8,5 @@ Docker Informationen
 
 Übersicht:
 
-![Docker Infografik](.../images/huber_docker_1.jpg)
+![Docker Infografik](../../images/huber_docker_1.jpg)
 
