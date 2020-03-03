@@ -9,7 +9,7 @@ child_type: docs
 
 Discover **Scratch**
 
-[Scratch Website](https://scratch.mit.edu/)
+[Scratch Website](https://scratch.mit.edu/projects/editor/)
 
 ![alt](../images/chrome_s4a4TtTTX8.png)
 
