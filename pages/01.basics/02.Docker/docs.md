@@ -17,7 +17,9 @@ Bild und weitere Infos von [entwickler.de](https://entwickler.de/online/windowsd
 
 
 Die Windows Version hat ca. 1GB und kann hier heruntergeladen werden:
-![alt](../../images/chrome_ufpVBRBPUA.png)
 [https://hub.docker.com/editions/community/docker-ce-desktop-windows/](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
+![alt](../../images/chrome_ufpVBRBPUA.png)
 
-Nach der Installation muss Windows neu gestartet werden.
+
+Nach der Installation muss Windows neu gestartet werden und dann muss man sich bei Docker anmelden:
+![alt](../../images/Docker_Desktop_vMwfPsrB8C.png)
