@@ -1,7 +1,8 @@
 ---
-title: Links
+title: Scratch
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Scratch Links:
