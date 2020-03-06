@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Calli:Bot:
-
 Der Calli:Bot ist eine Robotererweiterung für den Calliope mini.
 
 ![Calli:Bot](../../images/Callis.png)

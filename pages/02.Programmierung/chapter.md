@@ -5,9 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Scratch
-
-Discover **Scratch**
+**Scratch**
 
 [Scratch Website](https://scratch.mit.edu/projects/editor/)
 

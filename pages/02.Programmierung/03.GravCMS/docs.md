@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-## Grav CMS:
-
 Diese Seite wurde mit dem "flat Content Management System GRAV" erstellt. Hier wrede ich einige interessante Sachen posten, die damit zu tun haben.
 
 ### Style ändern:
