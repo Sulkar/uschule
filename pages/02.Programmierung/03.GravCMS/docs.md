@@ -7,7 +7,7 @@ taxonomy:
 Diese Seite wurde mit dem "flat Content Management System GRAV" erstellt. Hier werde ich einige interessante Sachen posten, die damit zu tun haben.
 
 ### Git Integration:
-Die Seite nutzt das Theme "Learn 2 with Git Sync". Damit kann man den Inhalt der Website mit Hilfe eines Git Repository verwalten. Dies funktioniert in zwei Richtungen.
+Die Seite nutzt das Theme "Learn 2 with Git Sync". Damit kann man den Inhalt der Website mit Hilfe eines Git Repositories verwalten. Dies funktioniert in zwei Richtungen.
 1. vom Git Repository zur Website: Wenn sich das Repository ändert, wird auch die Seite verändert.
 2. von der Website zum Git Repository: Wenn man im Admin Bereich der Website etwas ändert, wird auch das Repository verändert.
 
