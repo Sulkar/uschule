@@ -1,5 +1,5 @@
 ---
-title: Scratch
+title: Programming
 taxonomy:
     category: docs
 child_type: docs
