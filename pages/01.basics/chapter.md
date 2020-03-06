@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Allgemeines
 published: true
 taxonomy:
     category: docs
@@ -8,7 +8,7 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# Allgemeines
 
 Discover the **basic** principles
 
