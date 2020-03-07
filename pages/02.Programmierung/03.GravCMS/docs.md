@@ -6,6 +6,10 @@ taxonomy:
 
 Diese Seite wurde mit dem "flat Content Management System GRAV" erstellt. Hier werde ich einige interessante Sachen posten, die damit zu tun haben.
 
+### Markdown Infos:
+Die seiten werden mit der Markdown Sprache verfasst. Hier findet man Grav typische Befehle:
+[Markdown Info](./01markdown_info)
+
 ### Git Integration:
 Die Seite nutzt das Theme "Learn 2 with Git Sync". Damit kann man den Inhalt der Website mit Hilfe eines Git Repositories verwalten. Dies funktioniert in zwei Richtungen.
 1. vom Git Repository zur Website: Wenn sich das Repository ändert, wird auch die Seite verändert.
