@@ -9,6 +9,6 @@ taxonomy:
 
 <div class="video-container-wrapper"><div class='video-container'><iframe src='https://www.youtube.com/embed/QPpdVqZDMMM'  frameborder='0' allowfullscreen></iframe></div></div>
 **Aufgaben:**
-1. first
-2. second
-3. third
+1. Öffne den [Scratch Editor](https://scratch.mit.edu/projects/editor/)
+2. Verändere die Katze. Du kannst der Katze einen Hut aufsetzen oder die Fellfarbe ändern.
+3. Verändere das Bühnenbild. Nutze ein vorgefertigtes Bild oder erstelle ein eigenes.
