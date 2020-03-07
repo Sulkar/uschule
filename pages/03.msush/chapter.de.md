@@ -1,5 +1,8 @@
 ---
-title: Mittelschule Unterschleißheim
+title: 'Mittelschule Unterschleißheim'
+access:
+    site.login: true
+    admin.login: true
 taxonomy:
     category: docs
 child_type: docs
