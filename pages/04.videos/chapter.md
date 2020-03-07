@@ -1,5 +1,5 @@
 ---
-title: 'Videos'
+title: 'Videos<i class="fa fa-lock"></i>'
 
 taxonomy:
     category: docs
