@@ -6,9 +6,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
-
-# Allgemeines
+### Allgemeines
 
 Discover the **basic** principles
 
