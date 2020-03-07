@@ -3,6 +3,11 @@ title: Calliope
 taxonomy:
     category: docs
 ---
+- [Schülerheft 1 von Cornelsen](../../cornelsen-schuelermaterial-1.pdf)
+- [Schülerheft 2 von Cornelsen](../../cornelsen-schuelermaterial-2.pdf)
+- [Open Roberta - Editor zum Programmieren](https://lab.open-roberta.org/)
+- [Calli:Bot - Roboter für den Calliope](./01callibot)
+
 
 Der Calliope ist ein Mikrocontroller, der mit einer visuellen Programmiersprachen programmiert werden kann und schon in der Grundschule eingesetzt wird. Dennoch bietet dieser sehr viele Anwendungsmöglichkeiten, die auch in höheren Jahrgangsstufen nutzbar sind.
 ### Aufbau eines Calliopes:
