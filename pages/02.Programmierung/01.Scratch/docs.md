@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 ### Aufgaben:
-[Scratch Aufgaben](../msush/informatik)
+[Scratch Aufgaben](../../msush/informatik)
 
 ### Scratch Links:
 [Scratch Editor](https://scratch.mit.edu/projects/editor/)
