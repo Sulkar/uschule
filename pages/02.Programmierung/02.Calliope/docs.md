@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 ### Links:
-- [Schülerheft 1 von Cornelsen](../../cornelsen-schuelermaterial-1.pdf)
-- [Schülerheft 2 von Cornelsen](../../cornelsen-schuelermaterial-2.pdf)
+- [Schülerheft 1 von Cornelsen](../../files/cornelsen-schuelermaterial-1.pdf)
+- [Schülerheft 2 von Cornelsen](../../files/cornelsen-schuelermaterial-2.pdf)
 - [Open Roberta - Editor zum Programmieren](https://lab.open-roberta.org/)
 - [Calli:Bot - Roboter für den Calliope](./01callibot)
 
