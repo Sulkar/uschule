@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides Title
+title: Test
 ---
 
 [.text: alignment(center)]
