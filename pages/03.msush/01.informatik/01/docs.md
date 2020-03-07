@@ -1,8 +1,6 @@
 ---
 title: Der Scratch Editor 1
-access:
-    site.login: true
-    admin.login: true
+
 taxonomy:
     category: docs
 ---

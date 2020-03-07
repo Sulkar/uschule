@@ -1,8 +1,6 @@
 ---
 title: Scratch Editor 2
-access:
-    site.login: true
-    admin.login: true
+
 taxonomy:
     category: docs
 ---
