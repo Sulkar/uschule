@@ -1,5 +1,5 @@
 ---
-title: Der Scratch Editor
+title: Der Scratch Editor 1
 access:
     site.login: true
     admin.login: true

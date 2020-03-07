@@ -1,5 +1,5 @@
 ---
-title: Bilder import / export
+title: Scratch Editor 2
 access:
     site.login: true
     admin.login: true
@@ -7,7 +7,7 @@ taxonomy:
     category: docs
 ---
 
-**Scratch Editor Bilder importieren und exportieren** 
+**Scratch Editor Objekte und Bühnenbilder importieren und exportieren** 
 
 <div class="video-container-wrapper"><div class='video-container'><iframe src='https://www.youtube.com/embed/HLNveHrQtDA'  frameborder='0' allowfullscreen></iframe></div></div>
 **Aufgaben:**
