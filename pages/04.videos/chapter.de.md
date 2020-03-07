@@ -1,10 +1,10 @@
 ---
-title: 'Videos<i class="fa fa-lock"></i>'
-
+title: Videos
 taxonomy:
     category: docs
 child_type: docs
 ---
+
 Hier findest du eine Auflistung aller verlinkten Videos.
 
 | Informatik |  |
