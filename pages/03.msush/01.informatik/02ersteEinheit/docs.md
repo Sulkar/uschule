@@ -7,8 +7,6 @@ taxonomy:
     category: docs
 ---
 
-### Informatik 5. Klasse
-
 **Scratch Editor Bilder importieren und exportieren** 
 
 <div class="video-container-wrapper"><div class='video-container'><iframe src='https://www.youtube.com/embed/HLNveHrQtDA'  frameborder='0' allowfullscreen></iframe></div></div>
