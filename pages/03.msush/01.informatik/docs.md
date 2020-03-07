@@ -1,5 +1,5 @@
 ---
-title: Informatik an der MS USH
+title: Informatik
 access:
     site.login: true
     admin.login: true
