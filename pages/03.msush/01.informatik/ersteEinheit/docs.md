@@ -9,6 +9,6 @@ taxonomy:
 
 ### Informatik 5. Klasse
 
-**Scratch Editor Bilder importieren und exportieren** <iframe width="100%" src="https://www.youtube.com/embed/HLNveHrQtDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+**Scratch Editor Bilder importieren und exportieren** <iframe width="100%" height="100%" src="https://www.youtube.com/embed/HLNveHrQtDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 
 **Aufgaben:**
