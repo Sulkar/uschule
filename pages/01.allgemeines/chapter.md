@@ -6,13 +6,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Allgemeines
+Willkommen auf der Seite unsere-schule.org! Hier findest du Informationen über IT in der Schule, Programmierung und noch einen Unterpunkt mit Informationen speziell für die Mittelschule Unterschleißheim.
 
-Discover the **basic** principles
 
-Hallo ein erster Test!
-
-Tutorial: [Grav link Git](https://learn.hibbittsdesign.org/learn2withgitsync/tips-and-tricks)
-
-Ein Bildtest:
-![alt](../images/Code_pRV3EEUdW5.png)
