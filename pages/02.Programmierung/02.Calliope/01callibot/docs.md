@@ -6,6 +6,9 @@ taxonomy:
 
 Der Calli:Bot ist eine Robotererweiterung für den Calliope mini.
 
+### Aufgaben: 
+1. [Calli:Bot betriebsbereit machen](./01)
+
 ![Calli:Bot](../../../images/Callis.png)
 
 [Calli:Bot Anleitung als PDF](../../../files/Callibot_Kurzanleitung.pdf)
