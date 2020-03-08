@@ -21,4 +21,4 @@ Der Calliope kann, wenn er an einem Computer angeschlossen ist, mit dem MakeCode
 [MakeCode Editor](https://makecode.calliope.cc/)
 
 ### Roboter für Calliope -> der Calli:Bot
-[Informationen zum Calli:Bot](../03.Calli Bot)
+[Informationen zum Calli:Bot](../03.CalliBot)
