@@ -23,3 +23,7 @@ Der Calli:Bot wird folgendermaßen zusammengebaut:
 
 6. Adapterplatine einstecken
 ![alt](./7.png)
+
+Optional kannst du noch den Ultraschallsensor, die Augen des Calli:Bots, einstecken.
+
+Nun hast du den Calli:bot zusammengebaut und kannst den Calliope mit Code bespielen, sodass der Roboter auch etwas macht.
