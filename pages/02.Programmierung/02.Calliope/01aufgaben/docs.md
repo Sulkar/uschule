@@ -7,7 +7,7 @@ taxonomy:
 
 1. [Calliope Inbetriebnahme](./01)
 2. [Wir zeichnen ein Bild](./02)
-1. [Licht an, Licht aus]()
+1. [Eingabe - Ereignisse](./03)
 1. [Calliope als Piano](https://link)
 1. [Calliope als Zufallsgenerator](https://link)
 1. [Calliope als Lärmampel](https://link)
