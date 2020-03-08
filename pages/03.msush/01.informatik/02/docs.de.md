@@ -1,8 +1,8 @@
 ---
-title: Scratch Editor 2
-
+title: 'Scratch Editor 2'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 **Scratch Editor Objekte und Bühnenbilder importieren und exportieren** 
@@ -14,4 +14,4 @@ taxonomy:
 3. Verändere das Bühnenbild und exportiere es im SVG-Format und danach im PNG-Format.
 4. Speicher die Bilder auf dem Desktop deines Computers.
 
-[presentation='presentations/scratch_export']
+[presentation='presentations/calliope']
