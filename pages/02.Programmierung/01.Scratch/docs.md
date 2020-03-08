@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 ---
+![alt](../../images/chrome_s4a4TtTTX8.png)
+
 Scratch ist eine visuelle Programmiersprache, die in der ersten Version 2007 veröffentlicht wurde, und jetzt gerade in der 3. Version verfügbar ist. Das tolle daran ist, dass man den Scratch-Editor online unter: [https://scratch.mit.edu/](https://scratch.mit.edu/) oder auch offline direkt auf dem Computer nutzen kann.
 
 ### Aufgaben:
