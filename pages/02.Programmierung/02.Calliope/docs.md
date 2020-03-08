@@ -9,17 +9,17 @@ Der Calliope ist ein Mikrocontroller, der mit einer visuellen Programmiersprache
 [Calliope Aufgaben](./01aufgaben)
 
 ### Links:
+- [MakeCode Editor](https://makecode.calliope.cc/beta)
 - [Schülerheft 1 von Cornelsen](../../files/cornelsen-schuelermaterial-1.pdf)
 - [Schülerheft 2 von Cornelsen](../../files/cornelsen-schuelermaterial-2.pdf)
-- [Open Roberta - Editor zum Programmieren](https://lab.open-roberta.org/)
 - [Calli:Bot - Roboter für den Calliope](./01callibot)
 
 ### Aufbau eines Calliopes:
 ![Calliope](../../images/calliope.png)
 
-Der Calliope kann, wenn er an einem Computer angeschlossen ist, mit OpenRoberta programmiert werden:
+Der Calliope kann, wenn er an einem Computer angeschlossen ist, mit dem MakeCode Editor programmiert werden. Dieser nutzt auch eine visuelle Programmierumgebung wie in Scratch:
 
-[Open Roberta](https://lab.open-roberta.org/)
+[MakeCode Editor](https://makecode.calliope.cc/beta)
 
 ### Roboter für Calliope -> der Calli:Bot
 [Informationen zum Calli:Bot](./01callibot)

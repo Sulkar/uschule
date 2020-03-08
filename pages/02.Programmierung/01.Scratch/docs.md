@@ -4,9 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-Scratch ist eine visuelle Programmiersprache, die in der ersten Version 2007 veröffentlicht wurde, und jetzt gerade in der 3. Version verfügbar ist.
-
-Das tolle daran ist, dass man den Scratch-Editor online unter: [https://scratch.mit.edu/](https://scratch.mit.edu/) oder auch offline direkt auf dem Computer nutzen kann.
+Scratch ist eine visuelle Programmiersprache, die in der ersten Version 2007 veröffentlicht wurde, und jetzt gerade in der 3. Version verfügbar ist. Das tolle daran ist, dass man den Scratch-Editor online unter: [https://scratch.mit.edu/](https://scratch.mit.edu/) oder auch offline direkt auf dem Computer nutzen kann.
 
 ### Aufgaben:
 [Scratch Aufgaben](../../msush/informatik)
@@ -14,6 +12,7 @@ Das tolle daran ist, dass man den Scratch-Editor online unter: [https://scratch.
 ### Scratch Links:
 [Scratch Editor](https://scratch.mit.edu/projects/editor/)
 
+Studios mit vorgefertigten Projekten:
 |  |  |
 | ------ | ------ |
 | [5. Klasse](https://scratch.mit.edu/studios/5886570/) | [6. Klasse](https://scratch.mit.edu/studios/6034325/) |
