@@ -4,10 +4,13 @@ taxonomy:
     category: docs
 ---
 
-Der Calli:Bot ist eine Robotererweiterung für den Calliope mini.
+Der Calli:Bot ist eine Robotererweiterung für den Calliope mini und kann auch mit dem [MakeCode Editor](https://link) programmiert werden. Dazu muss man aber das Calli:Bot-Paket `https://github.com/knotechgmbh/Callibot` hinzufügen.
 
 ### Aufgaben: 
 1. [Calli:Bot betriebsbereit machen](./01)
+2.
+3. [Calli:Bot und ein Servomotor]()
+3. [Calli:Bot wir bauen eine Schranke]()
 
 ![Calli:Bot](../../../images/Callis.png)
 
