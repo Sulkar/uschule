@@ -8,7 +8,7 @@ Der Calliope besitzt viele verschiedene Eingabemöglichkeiten, also Ereignisse, 
 
 1. Verbinde den Calliope mit dem USB-Kabel an deinen Computer.
 
-2. Öffne den [MakeCode Editor](https://makecode.calliope.cc/beta) und suche in der Kategorie "Eingabe" folgenden Block:
+2. Öffne den [MakeCode Editor](https://makecode.calliope.cc/) und suche in der Kategorie "Eingabe" folgenden Block:
 
 ![alt](./block.png)
 
