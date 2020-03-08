@@ -14,5 +14,5 @@ taxonomy:
 3. Verändere das Bühnenbild und exportiere es im SVG-Format und danach im PNG-Format.
 4. Speicher die Bilder auf dem Desktop deines Computers.
 
-<script src="https://lernplattform.mebis.bayern.de/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <iframe src="https://lernplattform.mebis.bayern.de/mod/hvp/embed.php?id=13458991" width="958" height="256" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://lernplattform.mebis.bayern.de/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
