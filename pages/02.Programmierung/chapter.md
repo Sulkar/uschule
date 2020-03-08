@@ -5,46 +5,24 @@ taxonomy:
 child_type: docs
 ---
 
-**Scratch**
+### Programmierung
+In diesem Themenbereich dreht sich alles um die Programmierung. Es wird ein Fokus auf Programmiersprachen gelegt, die in der Schule - Mittelschule benutzt werden können.
 
-[Scratch Website](https://scratch.mit.edu/projects/editor/)
+Folgende Unterthemen sind gerade verfügbar:
 
+### Scratch
 ![alt](../images/chrome_s4a4TtTTX8.png)
 
-> Hallo ein Test
+Scratch ist eine visuelle Programmiersprache, die in der ersten Version 2007 veröffentlicht wurde, und jetzt gerade in der 3. Version verfügbar ist.
 
-----------
-Hallo jetzt geht es weiter. Wie könnte man das Problem nun lösen?
+Das tolle daran ist, dass man den Scratch-Editor online unter: [https://scratch.mit.edu/](https://scratch.mit.edu/) oder auch offline direkt auf dem Computer nutzen kann.
 
->Ich habe leider keine Ahnung, doch würde ich gerne eine neue Datei hinzufügen. 
+Im Scratch-Bereich kann man verschiedene Aufgaben finden, die Schritt für Schritt an die Programmierung in Scratch heranführen.
 
-[MD Grav Reference](https://learn.getgrav.org/16/content/markdown)
+Des Weiteren gibt es vorgefertigte "Studios" die z.B. ein halbfertiges Programm vorgeben, welches die Schüler*innen vervollständigen müssen.
 
-Eine Tabelle:
+### Calliope
+![alt](../images/calliopemini.jpg)
 
-| Name | Klasse | Wohnort |
-| ------ | ------ | -|
-| Richi | data | München |
-| Andi | data | Mering |
+Der Calliope ist ein Mikrocontroller, der mit einer visuellen Programmiersprachen programmiert werden kann und schon in der Grundschule eingesetzt wird. Die Programmierumgebung ähnelt Scratch. Dennoch bietet dieser sehr viele Anwendungsmöglichkeiten, die auch in höheren Jahrgangsstufen nutzbar sind.
 
-```python
-
-#imports:
-from os import listdir, rename, path
-import csv, sys
-from tkinter import Tk
-from tkinter.filedialog import askopenfilename, askdirectory
-
-#global variables:
-PfadZuDateien = ''
-meineDateienGefiltert = []
-
-def filterDateien():
-    meineDateien = listdir(PfadZuDateien)
-    #removes folders:
-    for datei in meineDateien:
-        if not path.isdir(path.join(PfadZuDateien, datei)):
-            global meineDateienGefiltert
-            meineDateienGefiltert.append(datei)
-
-```
