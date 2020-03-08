@@ -3,6 +3,9 @@ title: Python
 taxonomy:
     category: docs
 ---
+### Programme:
+[Dateien im Ordner umbenennen](./)
+
 ![alt](./python.png)
 
 Python ist eine einfache und dennoch sehr starke Programmiersprache, die versucht, einen gut lesbaren Programmcode zu fördern. Oft wird Python als erste textbasierte Programmiersprache in der Schule eingeführt.
@@ -12,9 +15,6 @@ Python Code soll leicht lesbar sein. Was könnte dieser Code machen?
 print("Hallo, wie geht es dir?")
 ```
 -> diese Anweisung gibt am Bildschirm einfach den Text in den Klammern aus, also "Hallo, wie geht es dir?".
-
-### Programme:
-[Dateien im Ordner umbenennen](./)
 
 Um Pyhton Code zu schreiben und auszuführen hat man zwei Möglichkeiten:
 
