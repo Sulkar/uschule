@@ -10,4 +10,4 @@ taxonomy:
 1. [Eingabe - Knöpfe](./03)
 1. [Calliope als Piano](./04)
 1. [automatisches Licht](./05)
-1. [Calliope als Lärmampel](https://link)
+1. [Calliope als Stoppuhr](./06)
