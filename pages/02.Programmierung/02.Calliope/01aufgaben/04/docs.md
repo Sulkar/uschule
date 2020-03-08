@@ -7,7 +7,7 @@ taxonomy:
 Der Calliope soll mit Hilfe des Lautsprechers verschiedene Töne wiedergeben, je nachdem welche Taste man auf dem Calliope drückt.
 
 1. Nutze den eingebauten Lautsprecher und die Knöpfe A und B des Calliopes.
-![alt](./laut.png))
+![alt](./laut.png)
 
 2. Öffne den [MakeCode Editor](https://makecode.calliope.cc/beta) und schreibe ein Programm, welches Musik spielt, wenn du auf einen der Knöpfe drückst.
 ![alt](./kombi.png)
