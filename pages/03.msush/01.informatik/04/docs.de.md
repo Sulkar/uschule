@@ -1,5 +1,5 @@
 ---
-title: 'Scratch Editor 2'
+title: Scratch Editor 2
 taxonomy:
     category:
         - docs
