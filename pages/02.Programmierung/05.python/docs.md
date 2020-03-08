@@ -3,7 +3,7 @@ title: Python
 taxonomy:
     category: docs
 ---
-![alt](./python)
+![alt](./python.png)
 
 Python ist eine einfache und dennoch sehr starke Programmiersprache, die versucht, einen gut lesbaren Programmcode zu fördern. Oft wird Python als erste textbasierte Programmiersprahe in der Schule eingeführt.
 
@@ -17,4 +17,4 @@ Um Pyhton Code zu schreiben und auszuführen hat man zwei Möglichkeiten:
 
 1. man kann einen online Editor nutzen um Python Code zu schreiben und auszuführen: [Python online Editor](https://www.programiz.com/python-programming/online-compiler/)
 2. man muss Python für den Computer herunterladen: [Python.org](https://www.python.org/downloads/) und installieren. Danach kann man mit Hilfe der Python IDLE Code schreiben und ausführen:
-![alt](./python1.png) 
+![alt](./python1.png)
