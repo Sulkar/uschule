@@ -1,5 +1,6 @@
 ---
 title: 'Alice’s Adventures in Wonderland'
+shortcodes: true
 ---
 
 ## Alice’s Adventures in Wonderland
