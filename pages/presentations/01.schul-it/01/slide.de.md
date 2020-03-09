@@ -1,5 +1,7 @@
 ---
 title: slide
+textsize:
+    modifier: 1
 style:
     justify-content: ''
     align-items: ''
