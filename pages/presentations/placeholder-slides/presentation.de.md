@@ -2,7 +2,7 @@
 title: Test
 ---
 
-[tester](https://www.google.com)
+[<- zurück](../it_schule/01)
 [.text: alignment(center)]
 
 # CPT 363
