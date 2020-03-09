@@ -1,49 +1,10 @@
 ---
 title: Ajax Test-Form
-form:
-    name: ajax-test-form
-    action: '/forms/ajax-test'
-    template: form-messages
-    refresh_prevention: true
 
-    fields:
-        name:
-            label: Your Name
-            type: text
-
-    buttons:
-        submit:
-            type: submit
-            value: Submit
-
-    process:
-        message: 'Thank you for your submission!'
 
 ---
 
 Tests:
-<div id="form-result"></div>
 
-<script>
-$(document).ready(function(){
-
-    var form = $('#ajax-test-form');
-    form.submit(function(e) {
-        // prevent form submission
-        e.preventDefault();
-
-        // submit the form via Ajax
-        $.ajax({
-            url: form.attr('action'),
-            type: form.attr('method'),
-            dataType: 'html',
-            data: form.serialize(),
-            success: function(result) {
-                // Inject the result in the HTML
-                $('#form-result').html(result);
-            }
-        });
-    });
-});
-</script>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAA9CAYAAACJM8YzAAADaXRFWHRteGZpbGUAJTNDbXhmaWxlJTIwaG9zdCUzRCUyMnd3dy5kcmF3LmlvJTIyJTIwbW9kaWZpZWQlM0QlMjIyMDIwLTAzLTA5VDE5JTNBMzYlM0ExNC43MDVaJTIyJTIwYWdlbnQlM0QlMjJNb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkY4MC4wLjM5ODcuMTMyJTIwU2FmYXJpJTJGNTM3LjM2JTIyJTIwZXRhZyUzRCUyMnk3alBvakZOSnJQVUVuX0hDWGhTJTIyJTIwdmVyc2lvbiUzRCUyMjEyLjguMSUyMiUyMHR5cGUlM0QlMjJnb29nbGUlMjIlM0UlM0NkaWFncmFtJTIwaWQlM0QlMjJwRzZnckZEeVl3RGVLUlRkY2dXNCUyMiUyMG5hbWUlM0QlMjJQYWdlLTElMjIlM0VqWkxKYm9Nd0VJYWZ4c2RLZ0dsQ2ppMmthZFZGcXBEYXFqY0xUN0FsZzVGakN1VHBhOHF3S1lyVWsyZSUyQldUenoyNFRHUlhzd3JCS3Ztb01pZ2NkYlFoTVNCSDdvUmU3b1NUZVFiWWdnTjVKajBneFNlUWFFSHRKYWNqaXRFcTNXeXNwcURUTmRscERaRldQRzZHYWRkdFJxZld2RmNyZ0FhY2JVSmYyVTNJcUJSc0YyNW84Z2N6SGU3RzkyUTZSZ1l6SnVjaEtNNjJhQjZKN1EyR2h0QjZ0b1kxQzllS011UTkzRGxlZzBtSUhTJTJGcWZnREllUHQlMkJOVGtudyUyRlIlMkIlMkZ0eXhmTndyc2I3UExEVkkwTDQ3QzJHeFV3dWk0NTlFMDhRdThiSVMya0ZjdjZhT1BlM0RGaEMlMkJVODM1bllEb3lGOXVxYyUyRnJTOSUyQnphZ0M3Q21jeWxZRU55aVlQaGpkdWcycyUyRnolMkJxS2xZU0w5Qnh2REY4Nm56TElvelVKZlJuZlglMkZpeTElMkJNZDMlMkZBZyUzRCUzRCUzQyUyRmRpYWdyYW0lM0UlM0MlMkZteGZpbGUlM0Xi8ilOAAAA9UlEQVR4Xu3TgQnAQAzDwGT/ob8USod4nTeQhHdmztjVBvaNfI7Ot1be3RH51rofl8iXB37xRBY5YCCA6MkiBwwEED1Z5ICBAKInixwwEED0ZJEDBgKInixywEAA0ZNFDhgIIHqyyAEDAURPFjlgIIDoySIHDAQQPVnkgIEAoieLHDAQQPRkkQMGAoieLHLAQADRk0UOGAggerLIAQMBRE8WOWAggOjJIgcMBBA9WeSAgQCiJ4scMBBA9GSRAwYCiJ4scsBAANGTRQ4YCCB6ssgBAwFETxY5YCCA6MkiBwwEED1Z5ICBAKInixwwEED8nxxgTSM+HkLuATxcAXQAAAAASUVORK5CYII=" style="cursor:pointer;max-width:100%;" onclick="(function(img){if(img.wnd!=null&&!img.wnd.closed){img.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&&evt.source==img.wnd){img.wnd.postMessage(decodeURIComponent(img.getAttribute('src')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);img.wnd=window.open('https://www.draw.io/?client=1&lightbox=1&edit=_blank');}})(this);"/>
 
