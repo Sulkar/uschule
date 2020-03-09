@@ -13,3 +13,5 @@ presentation:
 Hello
 
 [presentation="presentations/placeholder-slides"]
+
+[tester](../../presentations/placeholder-slides)
