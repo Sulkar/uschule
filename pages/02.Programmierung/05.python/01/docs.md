@@ -1,5 +1,5 @@
 ---
-title: Dateien im Ordner umbenennen
+title: automatisch Dateien umbenennen
 taxonomy:
     category: docs
 ---

@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 ### Programme:
-[Dateien im Ordner umbenennen](./01)
+[automatisch Dateien umbenennen](./01)
 
 ![alt](./python.png)
 
