@@ -8,4 +8,4 @@ presentation:
         transition: fade
 ---
 
-[presentation="presentations/calliope"]
+[presentation="presentations/placeholder-slides"]
