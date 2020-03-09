@@ -4,9 +4,8 @@ media_order: 'chrome_dwRk8Z5N6O.png,chrome_qnMjyjLdwv.png,chrome_625YLCoI4k.png,
 style:
     justify-content: start
     align-items: normal
-horizontal: false
+horizontal: true
 ---
-
 
 [<- zurück](../../it_schule/01)
 # IT an Schulen
