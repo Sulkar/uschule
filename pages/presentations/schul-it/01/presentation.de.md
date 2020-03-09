@@ -1,5 +1,5 @@
 ---
-title: '01'
+title: slide
 ---
 
 # haha
