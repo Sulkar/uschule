@@ -1,10 +1,13 @@
 ---
 title: 'Schul IT'
 media_order: 'chrome_dwRk8Z5N6O.png,chrome_qnMjyjLdwv.png,chrome_625YLCoI4k.png,chrome_pjht2E6vp8.png,chrome_xNhinD9uGo.png,chrome_Y3A5npXfma.png,chrome_uagMPQLg7P.png,chrome_yKgdBZpguH.png'
+style:
+    justify-content: start
+    align-items: normal
 ---
 
-[.background-color: #fff]
-[<-- zurück](../../it_schule/01)
+[.text: alignment(top)]
+[<- zurück](../../it_schule/01)
 # IT an Schulen
 
 ### Übersicht einzelner Teilbereiche
@@ -12,7 +15,7 @@ media_order: 'chrome_dwRk8Z5N6O.png,chrome_qnMjyjLdwv.png,chrome_625YLCoI4k.png,
 
 ---
 # Infrastruktur
-![inline 30%](chrome_xNhinD9uGo.png)
+![inline](chrome_xNhinD9uGo.png)
 
 ---
 # Klassenzimmer
