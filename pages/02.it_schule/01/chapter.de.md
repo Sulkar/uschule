@@ -1,8 +1,11 @@
 ---
 title: 'Einführung Schul IT'
-taxonomy:
-    category: docs
-child_type: docs
+presentation:
+    order:
+        by: date
+        dir: desc
+    options:
+        transition: fade
 ---
 
 [presentation="presentations/calliope"]
