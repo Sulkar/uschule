@@ -1,23 +1,3 @@
----
-title: Dateien im Ordner umbenennen
-taxonomy:
-    category: docs
----
-
-Dieses Python Programm benennt Dateien in einem vorher gewählten Ordner um.
-[RenameFilesV1.py](./RenameFilesV1.py)
-### Benutzung:
-
-1. Python Datei herunterladen z.B. auf den Desktop
-2. Datei per Doppelklick ausführen, dann erschein ein Konsolenfenster:
-![alt](./rename.png)
-3. Mit Hilfe von Nummerneingaben kann das Programm gesteuert werden.
-4. Zuerst wählt man mit "1" ein Verzeichnis aus in dem sich die Dateien befinden die umbenannt werden sollen.
-5. Nun wählt man mit "2" aus, dass alle Dateinamen in eine Textdatei geschrieben werden sollen: "Dateinamen.txt"
-6. Diese Textdatei kann man nun auch händisch verändern. Die Dateinamen werden mit dem Delimiter "|" getrennt, wobei links der aktuelle Dateiname steht und rechts der Dateiname, den die Datei bekommen soll.
-7. Zum Schluss wählt man "3" und bekommt nochmal eine Zusammenfassung angezeigt, welche Dateien wie umbenannt werden sollen. Wenn man dann in der Konsole "ja" eingibt werden die Dateien umbenannt.
-
-```python
 #Bibliotheken werden importiert
 from os import listdir, rename, path
 import csv, sys
@@ -139,4 +119,6 @@ start()
 
 #end:
 input("\nDrücke ENTER um das Programm zu beenden...")
-```
+
+
+
