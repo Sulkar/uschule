@@ -1,5 +1,7 @@
 ---
 title: 'Einführung Schul IT'
+taxonomy:
+    category: docs
 presentation:
     order:
         by: date
@@ -8,4 +10,5 @@ presentation:
         transition: fade
 ---
 
+Hello
 [presentation="presentations/placeholder-slides"]
