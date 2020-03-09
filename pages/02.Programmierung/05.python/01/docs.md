@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 Dieses Python Programm benennt Dateien in einem vorher gewählten Ordner um.
-[RenameFilesV1.py](./RenameFilesV1.py)
+[RenameFilesV1.py](./RenameFilesV1.zip)
 ### Benutzung:
 
 1. Python Datei herunterladen z.B. auf den Desktop
