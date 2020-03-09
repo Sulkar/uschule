@@ -6,33 +6,43 @@ style:
     align-items: normal
 ---
 
-[.text: alignment(top)]
+[.build-lists: true]
 [<- zurück](../../it_schule/01)
 # IT an Schulen
 
 ### Übersicht einzelner Teilbereiche
-![30%](chrome_yKgdBZpguH.png)
+1. Hello
+2. ho
+3. super
+
+![right](chrome_yKgdBZpguH.png)
+
 
 ---
+[.build-lists: true]
 # Infrastruktur
-![inline](chrome_xNhinD9uGo.png)
+1. Hello
+2. ho
+3. super
+
+![right](chrome_xNhinD9uGo.png)
 
 ---
 # Klassenzimmer
-![inline 30%](chrome_dwRk8Z5N6O.png)
+![right](chrome_dwRk8Z5N6O.png)
 
 ---
 # Endgeräte
-![inline 30%](chrome_uagMPQLg7P.png)
+![right](chrome_uagMPQLg7P.png)
 
 ---
 # Software
-![inline 30%](chrome_pjht2E6vp8.png)
+![right](chrome_pjht2E6vp8.png)
 
 ---
 # Service und Wartung
-![inline 30%](chrome_qnMjyjLdwv.png)
+![right](chrome_qnMjyjLdwv.png)
 
 ---
 # Cloud
-![inline 30%](chrome_Y3A5npXfma.png)
+![right](chrome_Y3A5npXfma.png)
