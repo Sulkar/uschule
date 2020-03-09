@@ -6,5 +6,5 @@ child_type: docs
 ---
 
 ### Schul IT
-In diesem Themenbereich dreht sich alles um die Programmierung. Es wird ein Fokus auf Programmiersprachen gelegt, die in der Schule - Mittelschule benutzt werden können.
+In diesem Bereich wird alles mögliche rund um die Schul IT aufgeführt. Die Einführungspräsentation zeigt verschiedene Themenbereiche einer Schul IT: [Einführung](./01)
 
