@@ -1,11 +1,11 @@
 ---
-title: Calliope als Zähler
+title: Calliope als Ampel
 taxonomy:
     category: docs
 ---
 
 Nutze die RGB (Red Green Blue) LED um eine Ampel nachzubauen!
-![alt](./ammpel.png)
+![alt](./ampel.png)
 
 1. Öffne den [MakeCode Editor](https://makecode.calliope.cc/) und schreibe ein Programm, welches die verschiedenen Farben der Ampel automatisch nacheinander anzeigt. Nutze Anweisungen, die Pause-Funktion und die RGB LED.
 
