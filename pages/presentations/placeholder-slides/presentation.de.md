@@ -2,7 +2,7 @@
 title: Test
 ---
 
-[<- zurück](../it_schule/01)
+[<- zurück](../../it_schule/01)
 [.text: alignment(center)]
 
 # CPT 363
