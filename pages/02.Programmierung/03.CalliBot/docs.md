@@ -10,10 +10,11 @@ Der Calli:Bot ist eine Robotererweiterung für den Calliope mini und kann auch m
 
 1. [Calli:Bot betriebsbereit machen](./01)
 2. [Calli:Bot Setup - MakeCode Editor](./02)
-3. [Calli:Bot Motoren ansteuern](./03)
-4. [Calli:Bot fährt im Kreis](./04)
-5. [Calli:Bot fährt NICHT gegen die Wand](./05)
-6. [Calli:Bot folgt einer schwarzen Linie](./06)
+3. [Calli:Bot Setup - Programm übertragen](./02b)
+4. [Calli:Bot Motoren ansteuern](./03)
+5. [Calli:Bot fährt im Kreis](./04)
+6. [Calli:Bot fährt NICHT gegen die Wand](./05)
+7. [Calli:Bot folgt einer schwarzen Linie](./06)
 
 ![Calli:Bot](../../../images/Callis.png)
 
