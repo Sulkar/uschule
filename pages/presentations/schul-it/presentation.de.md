@@ -13,4 +13,5 @@ media_order: chrome_dwRk8Z5N6O.png
 # Klassenzimmer
 
 Your slide text goes here.
-![inline 20%](chrome_dwRk8Z5N6O.png)
+
+![inline 30%](chrome_dwRk8Z5N6O.png)
