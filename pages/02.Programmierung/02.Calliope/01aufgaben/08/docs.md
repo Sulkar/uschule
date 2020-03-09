@@ -1,11 +1,11 @@
 ---
-title: Calliope als Ampel
+title: Calliope als Zähler
 taxonomy:
     category: docs
 ---
 
 Der Calliope soll die Knopfdrücke (A) zählen und auf der LED Matrix ausgeben.
-[alt](./zaehler.jpg)
+![alt](./zaehler.jpg)
 
 1. Öffne den [MakeCode Editor](https://makecode.calliope.cc/) und schreibe ein Programm, welches den Wert einer Variable ausgibt, die um 1 erhöht wird, wenn der Nutzer einen Knopf dürckt.
 
