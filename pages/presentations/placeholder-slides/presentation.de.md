@@ -2,12 +2,13 @@
 title: Test
 ---
 
+[tester](https://www.google.com)
 [.text: alignment(center)]
 
 # CPT 363
 
 ### Slides Placeholder
-[tester](https://www.google.com)
+
 > “A work in progress. And the possibilities are endless.”
 -- Elizabeth Eulberg
 
