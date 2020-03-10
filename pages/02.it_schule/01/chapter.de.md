@@ -10,4 +10,4 @@ presentation:
         transition: fade
 ---
 
-<placeholder>
+placeholder
