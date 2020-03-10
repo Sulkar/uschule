@@ -1,10 +1,13 @@
 ---
-title: Grav CMS
+title: 'Grav CMS'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Diese Seite wurde mit dem "flat Content Management System GRAV" erstellt. Hier werde ich einige interessante Sachen posten, die damit zu tun haben.
+
+[official Grav Forums](https://discourse.getgrav.org/)
 
 ### Markdown Infos
 
