@@ -13,7 +13,7 @@ Im neu erscheinenden Fenster muss "Folder Numeric Prefix" eingeschaltet sein. Da
 
 Klickt man nun auf speichern, so wird die Seite in der Navigation links angezeigt.
 
->>>> Achtung: Wenn man die Seitenkategorie (Chapter, Documentation) verändert, muss unter "Frontmatter" die Kategorie angepasst werden, sodass die Grav Learn2 Navigation funktioniert:
+>>>> Achtung: Wenn man die Seitenkategorie (Chapter, Documentation) nachträglich verändert, muss unter "Frontmatter" die Kategorie angepasst werden, sodass die Grav Learn2 Navigation funktioniert. Das Feld "Frontmatter" erscheint erst, wenn man den Expertenmodus eingeschaltet hat.
 
 ![](chrome_2uEoyEnpKR.png)
 
