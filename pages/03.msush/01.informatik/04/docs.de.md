@@ -7,7 +7,7 @@ taxonomy:
 
 **Scratch Editor Objekte und Bühnenbilder importieren und exportieren** 
 
-<div class="video-container-wrapper"><div class='video-container'><iframe src='https://www.youtube.com/embed/HLNveHrQtDA'  frameborder='0' allowfullscreen></iframe></div></div>
+<div class="video-container-wrapper iloader"><div class='video-container'><iframe src='https://www.youtube.com/embed/HLNveHrQtDA'  frameborder='0' allowfullscreen></iframe></div></div>
 **Aufgaben:**
 1. Öffne den [Scratch Editor](https://scratch.mit.edu/projects/editor/)
 2. Verändere die Katze und exportiere diese im SVG-Format und danach im PNG-Format.
