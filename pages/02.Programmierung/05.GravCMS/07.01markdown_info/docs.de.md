@@ -1,7 +1,8 @@
 ---
-title: Markdown Info
+title: 'Markdown Info'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Offizielle Grav Tutorial-Website für [Grav Markdown](https://learn.getgrav.org/16/content/markdown)
