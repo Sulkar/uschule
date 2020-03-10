@@ -10,8 +10,4 @@ presentation:
         transition: fade
 ---
 
-Hello
-
-[presentation="presentations/placeholder-slides"]
-
-[tester](../../presentations/placeholder-slides)
+<placeholder>
