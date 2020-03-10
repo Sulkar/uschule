@@ -1,5 +1,5 @@
 ---
-title: Programming
+title: Programmierung
 taxonomy:
     category: docs
 child_type: docs
