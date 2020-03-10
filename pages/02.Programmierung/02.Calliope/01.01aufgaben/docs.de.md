@@ -1,8 +1,10 @@
 ---
-title: Calliope Aufgaben
+title: 'Calliope Aufgaben'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
+
 ### Aufgaben:
 
 1. [Calliope Inbetriebnahme](./01)
