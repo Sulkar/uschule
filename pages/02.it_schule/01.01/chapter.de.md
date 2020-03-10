@@ -11,7 +11,7 @@ presentation:
 ---
 
 placeholder
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Ajax Suche...">
 
 <ul id="myUL">
   <li><a href="#">Adele</a></li>
