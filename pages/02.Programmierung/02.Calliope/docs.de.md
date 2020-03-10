@@ -7,6 +7,10 @@ taxonomy:
 
 Der Calliope ist ein Mikrocontroller, der mit einer visuellen Programmiersprachen programmiert werden kann und schon in der Grundschule eingesetzt wird. Dennoch bietet dieser sehr viele Anwendungsmöglichkeiten, die auch in höheren Jahrgangsstufen nutzbar sind.
 
+<div class='video-container iloader'>
+<iframe src="https://slides.com/rscheglmann/deck-2e5db8/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 ### Links:
 - [MakeCode Editor](https://makecode.calliope.cc/)
 - [Schülerheft 1 von Cornelsen](../../files/cornelsen-schuelermaterial-1.pdf)
