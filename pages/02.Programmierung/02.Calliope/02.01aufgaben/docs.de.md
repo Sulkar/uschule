@@ -16,3 +16,4 @@ taxonomy:
 7. [Calliope als Zähler](./08)
 8. [Calliope als Ampel](./09)
 9. [Calliope als Stoppuhr](./06)
+10. [Calliope Chat](./10)
