@@ -12,3 +12,9 @@ Im neu erscheinenden Fenster muss "Folder Numeric Prefix" eingeschaltet sein. Da
 ![](chrome_GQ87urGWDU.png)
 
 Klickt man nun auf speichern, so wird die Seite in der Navigation links angezeigt.
+
+>>>> Achtung: Wenn man die Seitenkategorie (Chapter, Documentation) verändert, muss unter "Frontmatter" die Kategorie angepasst werden, sodass die Grav Learn2 Navigation funktioniert:
+
+![](chrome_2uEoyEnpKR.png)
+
+
