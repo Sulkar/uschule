@@ -1,8 +1,8 @@
 ---
-title: Scratch Editor 1
-
+title: 'Scratch Editor 1'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 **Scratch Objekte und Bühnenbilder verändern** 
