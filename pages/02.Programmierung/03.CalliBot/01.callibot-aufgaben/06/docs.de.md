@@ -20,6 +20,8 @@ Die Linienensoren sind auf der Unterseite des Calli:Bots angebracht. Sie können
 - 1 bedeutet = hell
 - 0 bedeutet = dunkel
 
+Man kann am Calli:Bot erkennen ob der Liniensensor eine helle Fläche registriert, wenn er eine helle Fläche registiert, gibt er den Wert 1 zurück und ein blaues Licht leuchtet auf der Oberseite des Bots.
+
 Die Codeblöcke aus dem [MakeCode Editor](https://makecode.calliope.cc/) registrieren "hell" oder "dunkel". Im Hintergrund wandeln die Blöcke aber auch die 1 oder 0 um. Der Code hinter den Blöcken ist auf GitHub zu finden:  [Calli:Bot Blöcke Code](https://github.com/Sulkar/Callibot/blob/master/Knotech.ts)
 
 Besonders hervorzuheben ist die Definition zu den Liniensensoren:
@@ -32,6 +34,7 @@ export function readLineSensor(sensor: KSensor, status: KSensorStatus): boolean 
 
     let buffer = pins.i2cReadBuffer(0x21, 1);
     KInit();
+    //Hier wird geprüft, welcher Sensor ausgewählt wurde:
     if (sensor == KSensor.links) {
         buffer[0] &= 0x02
     }
@@ -39,6 +42,7 @@ export function readLineSensor(sensor: KSensor, status: KSensorStatus): boolean 
         buffer[0] &= 0x01
     }
     switch (status) {
+      	//Hell != 0 -> 1
         case KSensorStatus.hell:
             if (buffer[0] != 0) {
                 result = true
@@ -47,6 +51,7 @@ export function readLineSensor(sensor: KSensor, status: KSensorStatus): boolean 
                 result = false
             }
             break
+      	//Dunkel == 0 -> 0
         case KSensorStatus.dunkel:
             if (buffer[0] == 0) {
                 result = true
