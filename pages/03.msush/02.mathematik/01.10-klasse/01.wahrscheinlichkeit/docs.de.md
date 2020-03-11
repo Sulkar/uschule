@@ -5,4 +5,4 @@ taxonomy:
         - docs
 ---
 
-hier findest wichtiges zur Wahrscheinlichkeit
+hier findest Wichtiges zur Wahrscheinlichkeit
